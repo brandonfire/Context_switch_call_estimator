@@ -1,0 +1,9 @@
+Two programs to assess the performace of system call and context switching.
+
+Syscall: measure the cost of a system call.
+Ctxswi: measure the cost of context switching between 2 processes.
+
+To test cost of a system call or context switching. simply type "make" to get binary files.
+
+then type "./Syscall" to test cost of a systemcall
+and type "./Ctxswi" to test cost of contex switching
